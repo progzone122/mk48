@@ -21,9 +21,6 @@
 3. Install `trunk` (`cargo install --locked trunk`, install `gcc` first if it complains about missing `cc`)
 4. Optionally, install the `make` command
 
-You may use any version of Rust that works, but only `nightly-2022-08-14` is known
-to be compatible.
-
 ### Client
 
 0. Enter `/client`
